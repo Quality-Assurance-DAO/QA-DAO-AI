@@ -9,3 +9,4 @@
 ## 2019
 
 * [Vectoring Words](2019/vectoring-words.md)
+* [AI Language Models & Transformers](2019/ai-language-models-and-transformers.md)
