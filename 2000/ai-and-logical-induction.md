@@ -1,8 +1,6 @@
 # AI and Logical Induction
 
-## Logical Ind
-
-## uction&#x20;
+## Logical Induction&#x20;
 
 [Link](https://arxiv.org/pdf/1609.03543.pdf)
 
