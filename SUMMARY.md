@@ -2,6 +2,10 @@
 
 * [QA-DAO-AI](README.md)
 
+## 2021
+
+* [Transformers, explained](2021/transformers-explained.md)
+
 ## 2020
 
 * [AI and Logical Induction](2020/ai-and-logical-induction.md)
